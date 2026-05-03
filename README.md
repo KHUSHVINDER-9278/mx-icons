@@ -101,7 +101,7 @@ This project is open-source .
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Khushvinder**
 
 ---
 
