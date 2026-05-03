@@ -50,7 +50,7 @@ function App() {
       .catch((err) => console.error("Failed to load version", err));
   }, []);
 
-  const GITHUB_REPO_OWNER = "ig-imanish";
+  const GITHUB_REPO_OWNER = "KHUSHVINDER-9278";
   const GITHUB_REPO_NAME = "mx-icons";
 
   const GITHUB_API_URL = `https://api.github.com/repos/${GITHUB_REPO_OWNER}/${GITHUB_REPO_NAME}`;
@@ -301,7 +301,7 @@ function App() {
                   </div>
 
                   <div className="github-right">
-                    <div className="repo-name">ig-imanish/mx-icons</div>
+                    <div className="repo-name">khushvinder-9278/mx-icons</div>
 
                     <div className="repo-stats">
                       <div className="stat">

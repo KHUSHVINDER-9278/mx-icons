@@ -34,19 +34,19 @@ Before you begin, make sure you have the following installed:
 
 1. **Fork the repository**
    
-   Click the "Fork" button at the top right of the [MX Icons repository](https://github.com/ig-imanish/mx-icons)
+   Click the "Fork" button at the top right of the [MX Icons repository](https://github.com/KHUSHVINDER-9278/mx-icons)
 
 2. **Clone your fork**
    
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mx-icons.git
+   git clone 
    cd mx-icons
    ```
 
-3. **Add upstream remote**
+3. **Add upstream remote**https://github.com/YOUR_USERNAME/mx-icons.git
    
    ```bash
-   git remote add upstream https://github.com/ig-imanish/mx-icons.git
+   git remote add upstream https://github.com/KHUSHVINDER-9278/mx-icons.git
    ```
 
 4. **Install dependencies**
@@ -95,7 +95,7 @@ There are many ways you can contribute to MX Icons:
 
 ### 1. Report Bugs
 
-Found a bug? Please [open an issue](https://github.com/ig-imanish/mx-icons/issues/new) with:
+Found a bug? Please [open an issue](https://github.com/KHUSHVINDER-9278/mx-icons/issues/new) with:
 - A clear, descriptive title
 - Steps to reproduce the issue
 - Expected vs actual behavior
@@ -104,7 +104,7 @@ Found a bug? Please [open an issue](https://github.com/ig-imanish/mx-icons/issue
 
 ### 2. Request New Icons
 
-Need an icon that doesn't exist yet? [Create an issue](https://github.com/ig-imanish/mx-icons/issues/new) with:
+Need an icon that doesn't exist yet? [Create an issue](https://github.com/KHUSHVINDER-9278/mx-icons/issues/new) with:
 - Icon name and description
 - Use case or context
 - Reference images or examples (if available)
@@ -123,7 +123,7 @@ Help us improve our documentation by:
 
 ### 5. Fix Bugs or Implement Features
 
-Browse our [open issues](https://github.com/ig-imanish/mx-icons/issues) and pick one to work on!
+Browse our [open issues](https://github.com/KHUSHVINDER-9278/mx-icons/issues) and pick one to work on!
 
 ## 🎨 Adding New Icons
 
@@ -390,7 +390,7 @@ refactor(build): optimize vite configuration
 
 ### Submitting the PR
 
-1. Go to the [MX Icons repository](https://github.com/ig-imanish/mx-icons)
+1. Go to the [MX Icons repository](https://github.com/KHUSHVINDER-9278/mx-icons)
 2. Click "New Pull Request"
 3. Select your fork and branch
 4. Fill out the PR template with:
@@ -446,11 +446,7 @@ Releases are managed by maintainers. Here's the typical process:
 
 ## 📞 Getting Help
 
-Need help? Here are some resources:
 
-- 📖 [Documentation](https://github.com/ig-imanish/mx-icons/blob/main/README.md)
-- 💬 [GitHub Discussions](https://github.com/ig-imanish/mx-icons/discussions)
-- 🐛 [Issue Tracker](https://github.com/ig-imanish/mx-icons/issues)
 
 ## 🙏 Thank You
 

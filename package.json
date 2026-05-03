@@ -30,13 +30,13 @@
     "mx-icons",
     "react-icons"
   ],
-  "author": "Manish kumar",
-  "license": "MIT",
+  "author": "Khushvinder",
+  
   "repository": {
     "type": "git",
-    "url": "https://github.com/ig-imanish/mx-icons"
+    "url": "https://github.com/KHUSHVINDER-9278/mx-icons"
   },
-  "homepage": "https://github.com/ig-imanish/mx-icons#readme",
+  "readme": "https://github.com/KHUSHVINDER-9278/mx-icons/blob/main/README.md",
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0"
   },
