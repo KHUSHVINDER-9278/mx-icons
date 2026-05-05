@@ -643,15 +643,15 @@ function App() {
                 <h3>Resources</h3>
                 <ul>
                   <li>
-                    <a href="https://github.com/ig-imanish/mx-icons/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/KHUSHVINDER-9278/mx-icons/blob/main/README.md" target="_blank" rel="noopener noreferrer">
                       Documentation
                     </a>
                   </li>
                   <li>
-                    <a href="https://github.com/ig-imanish/mx-icons">GitHub</a>
+                    <a href="https://github.com/KHUSHVINDER-9278/mx-icons">GitHub</a>
                   </li>
                   <li>
-                    <a href="https://github.com/ig-imanish/mx-icons/releases" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/KHUSHVINDER-9278/mx-icons/releases" target="_blank" rel="noopener noreferrer">
                       Releases
                     </a>
                   </li>
@@ -662,22 +662,22 @@ function App() {
                 <h3>Community</h3>
                 <ul>
                   <li>
-                    <a href="https://github.com/ig-imanish/mx-icons/discussions" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/KHUSHVINDER-9278/mx-icons/discussions" target="_blank" rel="noopener noreferrer">
                       Discussions
                     </a>
                   </li>
                   <li>
-                    <a href="https://x.com/mx_icons" target="_blank" rel="noopener noreferrer">
+                    <a href="https://x.com/Khushvinder66" target="_blank" rel="noopener noreferrer">
                       Twitter
                     </a>
                   </li>
                   <li>
-                    <a href="https://github.com/ig-imanish/mx-icons/issues" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/KHUSHVINDER-9278/mx-icons/issues" target="_blank" rel="noopener noreferrer">
                       Report Issue
                     </a>
                   </li>
                   <li>
-                    <a href="https://github.com/ig-imanish/mx-icons/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/KHUSHVINDER-9278/mx-icons/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">
                       Contributing
                     </a>
                   </li>
@@ -688,7 +688,7 @@ function App() {
                 <h3>More</h3>
                 <ul>
                   <li>
-                    <a href="https://github.com/ig-imanish/mx-icons/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/KHUSHVINDER-9278/mx-icons/blob/main/README.md" target="_blank" rel="noopener noreferrer">
                       License
                     </a>
                   </li>
@@ -708,7 +708,7 @@ function App() {
             </p>
             <div className="footer-social">
               <a
-                href="https://github.com/ig-imanish/mx-icons"
+                href="https://github.com/KHUSHVINDER-9278/mx-icons"
                 aria-label="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -723,7 +723,7 @@ function App() {
                 </svg>
               </a>
               <a
-                href="https://x.com/mx_icons"
+                href="https://x.com/Khushvinder66"
                 aria-label="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
