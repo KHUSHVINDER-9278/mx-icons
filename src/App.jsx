@@ -704,7 +704,7 @@ function App() {
 
           <div className="footer-bottom">
             <p className="footer-copyright">
-              © {currentYear} MX Icons. Released under the MIT License.
+              
             </p>
             <div className="footer-social">
               <a
